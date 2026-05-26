@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Streaming",
+    "guid": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+    "name": "Multi-Source Scraper & Streamer",
+    "overview": "Dynamically bridges local .strm files with VidKing links.",
+    "description": "Aggregates items from IMDb, TMDb, RT, and TVDb with native resume capabilities.",
+    "owner": "Divin",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "changelog": "Initial Release with direct .strm endpoint redirection.",
+        "targetAbi": "10.9.0.0",
+        "sourceUrl": "https://raw.githubusercontent.com/divinthran/LazyFin/main/Jellyfin.Plugin.MultiSourceScraper.zip",
+        "checksum": "F629AC8CE3F6AAA069674066495F4410C16DD1068604688625E7A1CCC5F407B5",
+        "timestamp": "2026-05-26T12:00:00Z"
+      }
+    ]
+  }
+]
